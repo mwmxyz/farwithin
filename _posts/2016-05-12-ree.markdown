@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-05-12 08:35:38 +0530
+title:  "Publications"
+date:   2023-11-06 08:35:38 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is where I keep the things I did.
 
-Jekyll also offers powerful support for code snippets:
+Most recently, I gave a presentation on [skill assessments in gamified curricula][a], the talk was called Branch vs. Root and it was about best practices for skill badges or merit badges in a classroom setting. Aside from the blog [Partly Wicked][b], where I write about escape rooms, the last time I wrote (or said) anything in public was in 2015, in World Literature Today, [Haitian is My Language][c], an interview with the author Franetienné, followed by an article about Haitian literature. I also interviewed folklorist and [fairy tale expert Jack Zipes][d] that year, again for World Literature Today, and in the LA Review of Books, I interviewed [author Michael Cunningham][e] in connection with his novel The Snow Queen. I also wrote an article for n+1 (and for the Faber and Faber anthology City x City) called [This is Not a Brothel][f], about an escort service in Washington, DC. {: target="_blank"}.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs]{: target="_blank"} for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]{: target="_blank"}. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]{: target="_blank"}.
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+  [a]: https://vimeo.com/881499662
+  [b]: https://www.partlywicked.com 
+  [c]: https://specialagentmerriam.com/files/Merriam_Haitian_is_My_Language.pdf
+  [d]: https://www.worldliteraturetoday.org/blog/interviews/unvarnished-tales-brothers-grimm-conversation-jack-zipes
+  [e]: https://lareviewofbooks.org/article/adult-fairy-tales/  
+  [f]: https://www.nplusonemag.com/online-only/online-only/brothel-washington/
