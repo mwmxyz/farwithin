@@ -3,7 +3,4 @@ layout: page
 title: About
 ---
 
-This is a dark theme suitable for hacker blogs. 
-
-[Demo](http://webjeda.com/dark-side/) [Repo](https://github.com/sharu725/dark-side)
-
+These are where Michael W. Merriam keeps his publications. (He should probably look into what 'public' means, if he thinks it means hiding back in here.)
