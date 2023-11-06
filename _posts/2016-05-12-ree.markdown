@@ -1,8 +1,6 @@
 ---
 layout: post
-title:  "Publications"
-date:   2023-11-06 08:35:38 +0530
-categories: jekyll update
+title:  Publications
 ---
 
 This is where I keep the things I did.
