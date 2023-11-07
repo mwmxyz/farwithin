@@ -2,7 +2,7 @@
 layout: post
 title:  Publications
 ---
-![this_might_be_me]({{site.baseurl}}/images/image-3.png)
+![this_might_be_me]({{site.baseurl}}/images/mwm-hans.jpg)
 
 This is where I keep the things I did.
 
