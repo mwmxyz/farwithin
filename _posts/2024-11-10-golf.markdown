@@ -1,5 +1,0 @@
----
-layout: post
-title:  The Game of Crewel-Tee
----
-golf: https://www.ludoception.com/coursework/game.html
