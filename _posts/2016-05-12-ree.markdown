@@ -1,16 +1,6 @@
 ---
 layout: post
-title:  Publications
+title:  The Game of Crewel-Tee
 ---
-![this_might_be_me]({{site.baseurl}}/images/image-2.png)
+golf: https://www.ludoception.com/coursework/game.html
 
-This is where I keep the things I did.
-
-Most recently, I gave a presentation on [skill assessments in gamified curricula][a], the talk was called Branch vs. Root and it was about best practices for skill badges or merit badges in a classroom setting. Aside from the blog [Partly Wicked][b], where I write about escape rooms, the last time I wrote (or said) anything in public was in 2015, in World Literature Today, [Haitian is My Language][c], an interview with the author Franetienné, followed by an article about Haitian literature. I also interviewed folklorist and [fairy tale expert Jack Zipes][d] that year, again for World Literature Today, and in the LA Review of Books, I interviewed [author Michael Cunningham][e] in connection with his novel The Snow Queen. I also wrote an article for n+1 (and for the Faber and Faber anthology City x City) called [This is Not a Brothel][f], about an escort service in Washington, DC.
-
-  [a]: https://vimeo.com/881499662
-  [b]: https://www.partlywicked.com 
-  [c]: https://specialagentmerriam.com/files/Merriam_Haitian_is_My_Language.pdf
-  [d]: https://www.worldliteraturetoday.org/blog/interviews/unvarnished-tales-brothers-grimm-conversation-jack-zipes
-  [e]: https://lareviewofbooks.org/article/adult-fairy-tales/  
-  [f]: https://www.nplusonemag.com/online-only/online-only/brothel-washington/
